@@ -1,0 +1,9 @@
+{
+  "host": "localhost",
+  "user": "root",
+  "passwd": "",
+  "database": "gdoc",
+
+  "exel_file_name": "data.xlsx",
+  "db_table_name": "user_test "
+}
